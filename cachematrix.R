@@ -2,11 +2,11 @@
 ## functions do
 
 ## Write a short comment describing this function
-## 必須寫兩個函數 7/26/2015
-## The following is a pair of functions that cache and compute the inverse of a matrix.
+## 2 functions 7/26/2015
+## cache and compute the inverse of a matrix.
 
-## This function creates a special "matrix" object
-## that can cache its inverse.
+## creates a special "matrix" object
+## cache its inverse.
 
 makeCacheMatrix <- function(mtx = matrix()) {
   inverse <- NULL
